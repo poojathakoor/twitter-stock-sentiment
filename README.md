@@ -1,4 +1,4 @@
-# stock-sentiment : Stock market sentiment analysis using twitter
+# twitter-stock-sentiment : Stock market sentiment analysis using twitter
 
 **Sentiment Analysis of Tweets to find Relationship with the Stock Price Movement**
 The project classifies the tweets related to stock market into three market
@@ -15,7 +15,7 @@ Python 3.3, 3.4, 3.5 & 3.6 are supported.
 
 ### Installing
 
-    git clone https://github.com/pooja-thakoor/stock-sentiment.git
+    git clone https://github.com/pooja-thakoor/twitter-stock-sentiment.git
     cd stock-sentiment
     python setup.py install
 
