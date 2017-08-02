@@ -11,7 +11,16 @@ correlation can be found between sentiment of tweets and stock price movements.
 
 ### Prerequisites
 
-Python 3.3, 3.4, 3.5 & 3.6 are supported.
+* Python 3.3, 3.4, 3.5 & 3.6 are supported.
+* MongoDB
+
+### Dependencies
+
+* Tweepy
+* pymongo
+* scikit-learn
+* numpy
+* scipy
 
 ### Installing
 
@@ -35,3 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * https://twitter.com/
 * http://www.nltk.org/
 * http://www.tweepy.org/
+* https://www.mongodb.com

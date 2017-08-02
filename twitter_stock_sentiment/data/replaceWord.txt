@@ -1,0 +1,24 @@
+isnt*is not 
+arent*are not  
+cant*can not  
+cannot*can not  
+couldnt*could not  
+dont*do not  
+doesnt*[does not]  
+wont*will not  
+wouldnt*would not  
+havent*have not  
+u*you   
+ur*your  
+im*i am  
+b4*before
+be4*before  
+tmrrrow*tomorrow  
+tmrow*tomorrow  
+thats*that is 
+tomorow*tomorrow
+gonna*going to
+wanna*want to
+mkt*market
+vol*volume
+&*and
