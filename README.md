@@ -22,9 +22,9 @@ correlation can be found between sentiment of tweets and stock price movements.
 * numpy
 * scipy
 
-Data Distribution for NLTK
-Install using NLTK downloader: nltk.download()
-For instructions please see http://www.nltk.org/
+Data Distribution for NLTK<br />
+Install using NLTK downloader: nltk.download()<br />
+For instructions please see http://www.nltk.org/<br />
 Download Stopwords and Punkt Word Tokenizer
 
 ### Installing
