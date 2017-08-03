@@ -25,11 +25,10 @@ correlation can be found between sentiment of tweets and stock price movements.
 ### Installing
 
     git clone https://github.com/pooja-thakoor/twitter-stock-sentiment.git
-    cd stock-sentiment
-    python setup.py install
-
-## Running the tests
-
+    cd twitter-stock-sentiment
+    pip install -r requirements.txt
+    cd twitter-stock-sentiment
+    python gui.py
 
 ## Authors
 
