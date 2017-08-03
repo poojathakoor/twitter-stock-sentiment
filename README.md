@@ -22,6 +22,11 @@ correlation can be found between sentiment of tweets and stock price movements.
 * numpy
 * scipy
 
+Data Distribution for NLTK
+Install using NLTK downloader: nltk.download()
+For instructions please see http://www.nltk.org/
+Download Stopwords and Punkt Word Tokenizer
+
 ### Installing
 
     git clone https://github.com/pooja-thakoor/twitter-stock-sentiment.git
