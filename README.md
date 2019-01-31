@@ -29,7 +29,7 @@ Download Stopwords and Punkt Word Tokenizer
 
 ### Installing
 
-    git clone https://github.com/pooja-thakoor/twitter-stock-sentiment.git
+    git clone https://github.com/poojathakoor/twitter-stock-sentiment.git
     cd twitter-stock-sentiment
     pip install -r requirements.txt
     cd twitter-stock-sentiment
